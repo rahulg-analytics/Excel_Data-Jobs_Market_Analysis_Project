@@ -3,7 +3,7 @@
 <img width="1917" height="962" alt="Skills_vs_salary" src="https://github.com/user-attachments/assets/82949e93-4ba6-4623-91ed-fd524c865e26" />
 
 
-## Skills Salary Analysis
+## 1. Skills Salary Analysis
 
 ### Project Overview
 Analysed the relationship between in-demand skills and their median salaries across different job roles and countries to help job seekers make informed career decisions.
@@ -26,7 +26,7 @@ Developed an interactive Excel analysis that helps job seekers explore skill dem
 
 <img width="1917" height="965" alt="Skills_Job_ _Country" src="https://github.com/user-attachments/assets/f4fb7cef-bd01-4931-82e1-63240e8d3017" />
 
-## Skills, Job & Country Analysis
+## 2. Skills, Job & Country Analysis
 
 ### Project Overview
 Analysed the most frequently required skills across different job titles and countries to help job seekers understand which technical skills are in demand.
@@ -45,3 +45,46 @@ Analysed the most frequently required skills across different job titles and cou
 
 ### Final Outcome
 Created an interactive Excel analysis that helps job seekers identify in-demand skills and understand how skill requirements vary across job titles and countries.
+
+## 3. Skills Per Job
+
+### Project Overview
+Analysed the skills required for different data-related job roles to understand the technical skills employers expect from candidates.
+
+### How I Created It
+1. **Data Preparation:** Cleaned and transformed the dataset using Power Query.
+2. **Data Analysis:** Used Power Pivot and DAX to analyse skills associated with different job titles.
+3. **Pivot Table Analysis:** Summarised the number of job postings requiring each skill.
+4. **Data Visualization:** Created charts to compare skill requirements across job roles.
+5. **Interactive Filtering:** Added slicers to explore skills based on job titles and countries.
+
+### Business Value for Job Seekers
+- Identify skills required for specific job roles.
+- Understand employer skill expectations.
+- Identify skill gaps and prioritize learning.
+- Prepare for targeted career opportunities.
+
+### Final Outcome
+Created an interactive analysis that helps job seekers understand the skills required for different data-related careers.
+
+## 4. Median Salary Analysis
+
+### Project Overview
+Analysed median salaries across different data-related job titles and countries to understand salary variations and identify high-paying career opportunities.
+
+### How I Created It
+1. **Data Preparation:** Cleaned and transformed salary data using Power Query.
+2. **Data Modelling:** Used Power Pivot to establish relationships between job and salary datasets.
+3. **DAX Calculations:** Created measures to calculate median salaries dynamically.
+4. **Pivot Table Analysis:** Compared median salaries across different job titles and countries.
+5. **Data Visualization:** Created charts to present salary comparisons.
+6. **Interactive Filtering:** Added slicers to explore salary trends by job title and country.
+
+### Business Value for Job Seekers
+- Identify high-paying job roles.
+- Compare salary opportunities across countries.
+- Understand salary differences between job titles.
+- Make informed career decisions.
+
+### Final Outcome
+Developed an interactive salary analysis that helps job seekers explore median salary trends and identify better-paying career opportunities.
