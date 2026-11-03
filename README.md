@@ -1,5 +1,7 @@
 # Excel_Data-Jobs_Market_Analysis_Project
-![Uploading Skills_Salary_Analysis.png…]()
+
+<img width="1917" height="962" alt="Skills_vs_salary" src="https://github.com/user-attachments/assets/82949e93-4ba6-4623-91ed-fd524c865e26" />
+
 
 ## Skills Salary Analysis
 
